@@ -124,4 +124,4 @@ side to control the client machines and check their status.
 Lack of time made me start with a local, manually set, program that is very basic
 and bare-bones.
 
-This is GPL 2.0 licence code.
+This is BSD "new" license code.
